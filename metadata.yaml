@@ -1,5 +1,8 @@
 _repo: Confidence_178
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -13,6 +16,8 @@ description: Confidence, one of Henry James's early and lesser-known novels, is 
   through the great cities of Europe. Romantic complications ensue when the two old
   friends encounter two very different women on their travels, proposals and rejections
   follow, but all ends happily for everyone.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/178#Confidence
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
 identifiers:
